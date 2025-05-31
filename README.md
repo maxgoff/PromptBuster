@@ -1,2 +1,2 @@
 # PromptBuster
-Improve your prompt, improve your life
+Improve your prompt, improve your life.
